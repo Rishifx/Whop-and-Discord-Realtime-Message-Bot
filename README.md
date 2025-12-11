@@ -53,8 +53,8 @@ The **Whop-Discord Bridge** is designed to seamlessly forward messages from your
 
 ### 2. Clone & Install
 ```bash
-git clone https://github.com/Rishifx/whop-discord-bridge-realtime-message.git
-cd whop-discord-bridge
+git clone https://github.com/Rishifx/Whop-and-Discord-Realtime-Message-Bot.git
+cd Whop-and-Discord-Realtime-Message-Bot
 npm install
 ```
 
