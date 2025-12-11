@@ -7,7 +7,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-18+-green?logo=nodedotjs)
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-success)
 
-**A high-performance, resilient bot that bridges Whop Chats with Discord Webhooks in real-time.**
+**A high-performance, resilient bot that bridges Whop Chats with Discord Webhooks in real-time.** 
 
 [View Demo Video](public/Demo.mp4) • [Report Bug](https://github.com/issues) • [Request Feature](https://github.com/issues)
 
